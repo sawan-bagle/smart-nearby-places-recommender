@@ -37,8 +37,9 @@ the app runs in a clearly communicated preview mode.
 
 ---
 
-## 🖼️ Screenshots
-are avaliable -./screenshots/
+## 🖼️ Screenshot
+<img width="1157" height="931" alt="image" src="https://github.com/user-attachments/assets/87b3b370-7553-42b0-ace1-0beb27977064" />
+
 
 ---
 
