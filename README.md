@@ -38,6 +38,13 @@ the app runs in a clearly communicated preview mode.
 ---
 
 ## 🖼️ Screenshots
+are avaliable -./screenshots/
 
-> Add screenshots in the `/screenshots` folder and reference them here.
+---
+
+## 🚀 Run Locally
+
+```bash
+npm install
+npm run dev
 
