@@ -6,7 +6,7 @@ UX-driven recommendation logic.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Mood-based place discovery
 - Google Maps integration
@@ -17,7 +17,7 @@ UX-driven recommendation logic.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User selects a mood
 2. App fetches nearby places using Google Places API
@@ -27,7 +27,7 @@ UX-driven recommendation logic.
 
 ---
 
-## ⚠️ Note on Google Maps API
+##  Note on Google Maps API
 
 Google Maps and Places APIs require billing to be enabled even for free-tier usage.
 
@@ -37,7 +37,7 @@ the app runs in a clearly communicated preview mode.
 
 ---
 
-## 🖼️ Screenshot
+##  Screenshot
 <img width="1157" height="931" alt="image" src="https://github.com/user-attachments/assets/87b3b370-7553-42b0-ace1-0beb27977064" />
 
 
