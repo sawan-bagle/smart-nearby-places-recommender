@@ -38,10 +38,13 @@ the app runs in a clearly communicated preview mode.
 ---
 
 ##  Screenshot
-<img width="1157" height="931" alt="image" src="https://github.com/user-attachments/assets/87b3b370-7553-42b0-ace1-0beb27977064" />
 
+<img width="1890" height="903" alt="image" src="https://github.com/user-attachments/assets/9fff5bc1-ea9c-49e0-80b8-da0cf7265af4" />
+
+<img width="1894" height="900" alt="image" src="https://github.com/user-attachments/assets/0fb38491-2a8b-4959-8c9c-816db38a1cae" />
 
 ---
+<img width="1888" height="906" alt="image" src="https://github.com/user-attachments/assets/2191b429-c41b-4b0d-8ab3-135e982a5d8b" />
 
 ## 🚀 Run Locally
 
